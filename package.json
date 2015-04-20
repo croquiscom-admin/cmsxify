@@ -1,0 +1,25 @@
+{
+  "name": "cmsxify",
+  "description": "Browserify transform for CMSX",
+  "version": "0.1.0",
+  "keywords": [
+    "coffeescript",
+    "browserify",
+    "mithril",
+    "cmsx"
+  ],
+  "homepage": "https://github.com/croquiscom/cmsxify",
+  "bugs": "https://github.com/croquiscom/cmsxify/issues",
+  "author": "Sangmin Yoon <sangmin.yoon@croquis.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/croquiscom/cmsxify.git"
+  },
+  "dependencies": {
+    "cmsx": "^0.1.0",
+    "coffee-script": "^1.9.0",
+    "convert-source-map": "^0.4.1",
+    "through": "^2.3.6"
+  }
+}
