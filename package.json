@@ -17,7 +17,7 @@
     "url": "git://github.com/croquiscom/cmsxify.git"
   },
   "dependencies": {
-    "cmsx": "^0.1.0",
+    "cmsx": "^0.2.0",
     "coffee-script": "^1.9.0",
     "convert-source-map": "^0.4.1",
     "through": "^2.3.6"
